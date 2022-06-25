@@ -1,0 +1,15 @@
+C:\Users\narpa\Documents\Personal\School\TrueOrFalseQuizApp\TrueOrFalseQuizApp\bin\Debug\net6.0\TrueOrFalseQuizApp.exe
+C:\Users\narpa\Documents\Personal\School\TrueOrFalseQuizApp\TrueOrFalseQuizApp\bin\Debug\net6.0\TrueOrFalseQuizApp.deps.json
+C:\Users\narpa\Documents\Personal\School\TrueOrFalseQuizApp\TrueOrFalseQuizApp\bin\Debug\net6.0\TrueOrFalseQuizApp.runtimeconfig.json
+C:\Users\narpa\Documents\Personal\School\TrueOrFalseQuizApp\TrueOrFalseQuizApp\bin\Debug\net6.0\TrueOrFalseQuizApp.dll
+C:\Users\narpa\Documents\Personal\School\TrueOrFalseQuizApp\TrueOrFalseQuizApp\bin\Debug\net6.0\ref\TrueOrFalseQuizApp.dll
+C:\Users\narpa\Documents\Personal\School\TrueOrFalseQuizApp\TrueOrFalseQuizApp\bin\Debug\net6.0\TrueOrFalseQuizApp.pdb
+C:\Users\narpa\Documents\Personal\School\TrueOrFalseQuizApp\TrueOrFalseQuizApp\obj\Debug\net6.0\TrueOrFalseQuizApp.csproj.AssemblyReference.cache
+C:\Users\narpa\Documents\Personal\School\TrueOrFalseQuizApp\TrueOrFalseQuizApp\obj\Debug\net6.0\TrueOrFalseQuizApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narpa\Documents\Personal\School\TrueOrFalseQuizApp\TrueOrFalseQuizApp\obj\Debug\net6.0\TrueOrFalseQuizApp.AssemblyInfoInputs.cache
+C:\Users\narpa\Documents\Personal\School\TrueOrFalseQuizApp\TrueOrFalseQuizApp\obj\Debug\net6.0\TrueOrFalseQuizApp.AssemblyInfo.cs
+C:\Users\narpa\Documents\Personal\School\TrueOrFalseQuizApp\TrueOrFalseQuizApp\obj\Debug\net6.0\TrueOrFalseQuizApp.csproj.CoreCompileInputs.cache
+C:\Users\narpa\Documents\Personal\School\TrueOrFalseQuizApp\TrueOrFalseQuizApp\obj\Debug\net6.0\TrueOrFalseQuizApp.dll
+C:\Users\narpa\Documents\Personal\School\TrueOrFalseQuizApp\TrueOrFalseQuizApp\obj\Debug\net6.0\ref\TrueOrFalseQuizApp.dll
+C:\Users\narpa\Documents\Personal\School\TrueOrFalseQuizApp\TrueOrFalseQuizApp\obj\Debug\net6.0\TrueOrFalseQuizApp.pdb
+C:\Users\narpa\Documents\Personal\School\TrueOrFalseQuizApp\TrueOrFalseQuizApp\obj\Debug\net6.0\TrueOrFalseQuizApp.genruntimeconfig.cache
