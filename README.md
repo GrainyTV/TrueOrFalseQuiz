@@ -15,12 +15,12 @@ The `input.txt` file follows a specific syntax for defining the quiz questions a
 ```
 * {question}: Represents the true or false question.
 * ; (semicolon): Serves as the separator between the question and the answer.
-* {answer}: Either capital `I` for True, or a capital `H` for False.
+* {answer}: Either a capital `I` for True, or a capital `H` for False.
 
-Here is an example that demonstrates a 3 questions long input file:
+Here is an example that demonstrates a 3-question input file:
 
 ```
-The sky is blue;I
-Cats are reptiles;H
-Water boils at 100 degrees Celsius;I
+The sky is blue.;I
+Cats are reptiles.;H
+Water boils at 100 degrees Celsius.;I
 ```
