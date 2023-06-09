@@ -1,6 +1,6 @@
 
 # True or False Quiz Application
-This console application is designed to help you prepare for exams that require quick responses to true or false questions. The application operates based on an input file that contains the questions and their corresponding answers. Please note: The application is provided in Hungarian, but it can be used by anyone as it primarily relies on a simple input format.
+<p align="justify">This console application is designed to help you prepare for exams that require quick responses to true or false questions. The application operates based on an input file that contains the questions and their corresponding answers. Please note: The application is provided in Hungarian, but it can be used by anyone as it primarily relies on a simple input format.</p>
 
 ## Getting started
 1. Ensure you have the necessary input file in the project directory. The file should follow a specific syntax (explained below) to provide the quiz questions and answers.
