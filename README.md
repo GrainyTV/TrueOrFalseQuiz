@@ -4,7 +4,7 @@ This console application is designed to help you prepare for exams that require 
 
 ## Getting started
 1. Ensure you have the necessary input file in the project directory. The file should follow a specific syntax (explained below) to provide the quiz questions and answers.
-2. Run the application and the quiz will be displayed, presenting all the questions along with their corresponding answers in alphabetical order.
+2. Run the application, and the quiz will be displayed, presenting all the questions along with their corresponding answers in alphabetical order.
 3. Press any key to start the actual quiz. Each question will be presented individually in a randomized order, and you will need to respond with `i` for True or `h` for False.
 4. At the end of the quiz, your results will be displayed, indicating the number of correct and incorrect answers.
 
