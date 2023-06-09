@@ -1,0 +1,7 @@
+The sky is blue.;I
+Cats are reptiles.;H
+Water boils at 100 degrees Celsius.;I
+.
+.
+.
+{question};{answer}
